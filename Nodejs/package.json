@@ -7,7 +7,7 @@
     "nodejs",
     "Bpo"
   ],
-  "license": "ISC",
+  "license": "IS",
   "author": "Bpo",
   "type": "commonjs",
   "main": "server.js",
